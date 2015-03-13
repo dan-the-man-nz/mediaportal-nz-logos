@@ -1,0 +1,3 @@
+This repository contains a large selection of New Zealand terrestrial (Freeview|HD) and satellite (Freeview Satellite and Sky) television channel and radio station logos for use with [MediaPortal](http://www.team-mediaportal.com/) and the [LogoManager plugin](http://www.team-mediaportal.com/extensions/utilities/logomanager). Logos are presented at a maximum of 190x190px.
+
+If you're from New Zealand and would like to test LogoManager, you can follow [these steps](http://forum.team-mediaportal.com/threads/calling-all-mp-new-zealanders-both-of-you.2321/page-412#post-1065857) to add New Zealand support to the plugin. Further instructions on using LogoManager are available [here](http://code.google.com/p/mediaportal-uk-logos/#Instructions).
